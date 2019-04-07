@@ -14,7 +14,7 @@
 [![Build Status](https://travis-ci.com/particle4dev/f50-staticweb.svg?branch=master)](https://travis-ci.com/particle4dev/f50-staticweb)
 [![Dependencies Status](https://img.shields.io/david/particle4dev/f50-staticweb.svg)](https://github.com/particle4dev/f50-staticweb)
 [![Dev Dependencies Status](https://img.shields.io/david/dev/particle4dev/f50-staticweb.svg)](https://github.com/particle4dev/f50-staticweb)
-[![Twitter Badge](https://img.shields.io/badge/chat-twitter-blue.svg)](https://twitter.com/triscodes)
+<!-- [![Twitter Badge](https://img.shields.io/badge/chat-twitter-blue.svg)](https://twitter.com/triscodes) -->
 ![License Badge](https://img.shields.io/github/license/particle4dev/f50-staticweb.svg)
 <!-- [![Donate Badge](https://img.shields.io/badge/buy%20me%20a%20tea-donate-yellow.svg)](https://paypal.me/Nightizm) -->
 
