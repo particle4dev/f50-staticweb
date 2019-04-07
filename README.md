@@ -20,6 +20,24 @@
 
 </div>
 
+## Quick start
+
+### Prerequisites
+
+Following are the minimum tested versions for the tools and libraries you need for running this project:
+
+- Nodejs: v10.14.2 or newer
+- Npm: 6.3.0 or newer
+
+### Install
+
+1. `git clone https://github.com/tr1s/tris-webpack-boilerplate.git your-project-name`
+2. `cd your-project-name && rm -rf .git`
+3. `npm install`
+4. `npm start`
+
+You're all set, start coding 👩‍💻👨‍💻 !
+
 ## Authors
 
 * **Tristan Michael Lawrence** - *Initial work* - [tr1s](https://github.com/tr1s)
