@@ -1,15 +1,16 @@
 {
-  "name": "tris-webpack-boilerplate",
+  "name": "f50-staticweb",
   "version": "1.0.0",
   "description": "A webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in.",
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
-    "build": "webpack --config webpack.prod.js"
+    "build": "webpack --config webpack.prod.js",
+    "deploy": "gh-pages -d dist -b gh-pages"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tr1s/tris-webpack-boilerplate"
+    "url": "https://github.com/particle4dev/f50-staticweb"
   },
   "keywords": [],
   "author": "tr1s",
@@ -26,6 +27,7 @@
     "cssnano": "^4.1.8",
     "favicons-webpack-plugin": "0.0.9",
     "file-loader": "^3.0.1",
+    "gh-pages": "^2.0.1",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
     "imagemin-mozjpeg": "^8.0.0",
