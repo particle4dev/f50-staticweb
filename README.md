@@ -21,4 +21,16 @@
 </div>
 
 
+## Authors
+
+* **Tristan Michael Lawrence** - *Initial work* - [tr1s](https://github.com/tr1s)
+
+* **Nam Hoang** - *Maintainer* - [particle4dev](https://github.com/particle4dev)
+
+See also the list of [contributors](AUTHORS) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
